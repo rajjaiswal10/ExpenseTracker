@@ -1,5 +1,5 @@
 # Expense Tracker
-This android application track expense and income display them on well designed ui for easy access and readablity.
+This android application track expense and income to display them on well designed ui for easy access and readablity.
 We can also sort out the transaction based on various filters.
 
 
